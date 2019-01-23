@@ -1,6 +1,7 @@
 from urllib.request import urlopen
 from bs4 import BeautifulSoup as soup
 
+#
 link = 'https://en.wikipedia.org/wiki/Python_(programming_language)'
 
 f = urlopen(link)

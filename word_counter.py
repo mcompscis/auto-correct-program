@@ -1,7 +1,7 @@
 from urllib.request import urlopen
 from bs4 import BeautifulSoup as soup
 from collections import Counter
-from web_scraping import url_getter
+from wikipedia_url_getter import url_getter
 import string
 
 # link = 'https://en.wikipedia.org/wiki/Python_(programming_language)'

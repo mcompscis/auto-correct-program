@@ -55,7 +55,6 @@ def whitespace(word):
     return set(word_set)
 
 
-#print(whitespace('theirresponsibility'))
-#print(correction('myspace'))
-
-#print(correction("cta"))
+# print(whitespace('theirresponsibility'))
+# print(correction('myspace'))
+# print(correction("cta"))
